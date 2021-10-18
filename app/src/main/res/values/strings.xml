@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">My Calculator ... Not Yours</string>
+    <string name="Clear">Ce</string>
+    <string name="left_paren">(</string>
+    <string name="plus">\u002b</string>
+    <string name="backspace">backspace</string>
+    <string name="equals">=</string>
+    <string name="decimal">.</string>
+    <string name="one">1</string>
+    <string name="zero">0</string>
+    <string name="three">3</string>
+    <string name="minus">\u2212</string>
+    <string name="right_paren">)</string>
+    <string name="five">5</string>
+    <string name="multiply">\u00d7</string>
+    <string name="var_B">B</string>
+    <string name="var_C">C</string>
+    <string name="divide">\u00f7</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="four">4</string>
+    <string name="six">6</string>
+    <string name="two">2</string>
+    <string name="negative">(-)</string>
+    <string name="history">history</string>
+    <string name="text_display">text display</string>
+    <string name="var_A">A</string>
+    <string name="store">STO\u2192</string>
+    <string name="sin">sin</string>
+    <string name="numpad_swap">\u27f3</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="exponent">^</string>
+    <string name="pi">\u03c0</string>
+    <string name="square">X²</string>
+    <string name="sqrt">²√</string>
+    <string name="power_ten">10ⁿ</string>
+    <string name="natural_number">e</string>
+    <string name="comma">,</string>
+    <string name="root">ⁿ√</string>
+</resources>
